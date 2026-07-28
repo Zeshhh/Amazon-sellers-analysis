@@ -1,0 +1,12 @@
+# Системные файлы и IDE
+.vs/
+.kilo/
+.ipynb_checkpoints/
+__pycache__/
+
+# Копии и HTML-отчеты
+*copy*
+*.html
+
+# Сырые данные (если нужно скрыть тяжелый оригинал)
+data/raw/
