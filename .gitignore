@@ -1,12 +1,12 @@
-# Системные файлы и IDE
+PLG_SAAS_ANALYSIS/
+*.pyproj
 .vs/
 .kilo/
 .ipynb_checkpoints/
 __pycache__/
 
-# Копии и HTML-отчеты
 *copy*
 *.html
 
-# Сырые данные (если нужно скрыть тяжелый оригинал)
+
 data/raw/
