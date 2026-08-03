@@ -42,4 +42,4 @@ __pycache__/
 *.tmp
 *.swp
 *.swo
-*.venv_scripts/
+.venv_scripts/
